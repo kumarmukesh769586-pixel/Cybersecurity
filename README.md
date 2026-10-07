@@ -22,19 +22,6 @@ That's the principle of least privilege in one command. I also learned the funny
 
 **Next in my notes:** the OSI model and the TCP/IP model — how data actually moves — because most attacks and defences make sense once you know which layer you're looking at.
 
-## Photos — Kali Linux practice
 
-Screenshots from this practice session, in order:
 
-1. ![Kali Linux desktop](kali-linux-practice/01-kali-desktop.jpg) — Kali desktop, ready to work
-2. ![apt update and upgradable packages](kali-linux-practice/02-apt-update-upgradable-packages.jpg) — `apt update` — 1,381 packages can be upgraded
-3. ![Upgradable packages list, continued](kali-linux-practice/03-upgradable-packages-continued.jpg) — the upgradable list, continued
-4. ![Upgradable packages — G to L](kali-linux-practice/04-upgradable-packages-g-l.jpg) — upgradable packages, G–L
-5. ![Upgradable packages — L to S](kali-linux-practice/05-upgradable-packages-l-s.jpg) — upgradable packages, L–S
-6. ![Practicing 25 Linux commands](kali-linux-practice/06-practicing-linux-commands.jpg) — practicing file, user and system commands in the terminal
-7. ![Editing file.txt in nano](kali-linux-practice/07-nano-file-edit.jpg) — `nano file.txt` — “Hello Kali”
-8. ![Kali Linux Lab folder](kali-linux-practice/08-cyberlab-folder.jpg) — creating `~/cyberlab` and `test.txt`
-9. ![Creating a user and setting permissions](kali-linux-practice/09-user-and-permissions.jpg) — `sudo adduser student`, `chmod 755` then `chmod 700` on `project`
-10. ![Ping test and network adapter notes](kali-linux-practice/10-ping-and-network.jpg) — `ping -c 4 google.com` (0% loss) and VirtualBox network adapter notes
-
-*Practice done in my own lab environment for learning.*
+*Practice done in my own lab envigronment for learnin.*
