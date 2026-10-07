@@ -16,12 +16,12 @@ Hands-on practice in my own Kali Linux VM (VirtualBox). Everything here is done 
 
 ## Screenshot index
 
-Practice screenshots (currently stored at the repository root):
+Practice screenshots (the first two live in this folder; the rest are currently stored at the repository root):
 
 | File | What it shows |
 |---|---|
-| `1Image` | Kali Linux practice screenshot |
-| `2 Image` | Kali Linux practice screenshot |
+| `01-kali-desktop.jpg` | Kali Linux desktop |
+| `02-apt-update-upgradable-packages.jpg` | `sudo apt update` — 1,381 upgradable packages |
 | `WhatsApp Image 2026-10-04 at 6.22.08 PM.jpeg` | Kali practice — desktop / terminal session |
 | `WhatsApp Image 2026-10-04 at 6.22.19 PM.jpeg` | Kali practice — terminal session |
 | `WhatsApp Image 2026-10-04 at 6.22.28 PM.jpeg` | Kali practice — terminal session |
